@@ -3,7 +3,7 @@
     <application
         android:allowBackup="false"
         android:hardwareAccelerated="true"
-        android:label="Mini Strike 3D"
+        android:label="Mini Strike"
         android:theme="@style/AppTheme"
         android:usesCleartextTraffic="false">
         <activity
